@@ -360,7 +360,7 @@ def get_args():
     p = argparse.ArgumentParser(description="NFL differentiation-optimized weekly picks")
     p.add_argument("--api-key", default=os.environ.get("ODDS_API_KEY"))
     p.add_argument("--region", default="us")
-    p.add_argument("--days", type=int, default=7)
+    p.add_argument("--days", type=int, default=10)  # covers Thu-Mon slate even when run as late as Friday
     p.add_argument("--input", help="Path to manual odds JSON file (skips live API)")
 
     p.add_argument("--participants", type=int, default=75)
