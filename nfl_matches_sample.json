@@ -1,0 +1,16 @@
+[
+  {
+    "home_team": "Kansas City Chiefs",
+    "away_team": "Buffalo Bills",
+    "ml_home": -145,
+    "ml_away": 122,
+    "commence_time": "2026-09-14T17:00:00+00:00"
+  },
+  {
+    "home_team": "San Francisco 49ers",
+    "away_team": "Seattle Seahawks",
+    "ml_home": -105,
+    "ml_away": -115,
+    "commence_time": "2026-09-14T20:00:00+00:00"
+  }
+]
