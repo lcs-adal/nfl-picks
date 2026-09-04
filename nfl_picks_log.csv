@@ -1,0 +1,3 @@
+week_date,home_team,away_team,chalk_pick,final_pick,is_differentiator,confidence,actual_result,field_chalk_pct
+2026-09-04,Seattle Seahawks,New England Patriots,Seattle Seahawks,New England Patriots,True,0.3704,,
+2026-09-04,Los Angeles Rams,San Francisco 49ers,Los Angeles Rams,San Francisco 49ers,True,0.3558,,
